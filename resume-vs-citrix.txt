@@ -1,0 +1,26 @@
+================== <FileStorage: 'resume1.txt' ('text/plain')> sr-citrix-eng.txt
+<openai.OpenAI object at 0x05B95310>
+
+ Doing the AI analysis
+
+ Done the AI analysis
+1. Experience with highly secured environments: The resume mentions experience in deploying services into Redhat Openshift Cloud and working with Goldman Sachs, which are highly secured and least privilege access environments. The job description also demands experience working in such environments. Score: 8/10.
+    - Reason: Both roles require experience in handling data and technologies that follow rigorous security standards.
+    - Sample: Resume ("Design and Development of micro services using Java, ReactJS and deployed into RedHit OpenShift cloud."), Job Description ("Experience working in a highly secured and least privilege access environment")
+
+2. Good communication skills: The resume showcases the ability to work in large teams across different geographical areas implying effective communication. The job description also requires excellent interpersonal and communication skills. Score: 7/10.
+    - Reason: The candidate has demonstrated good communication skills in the past by working effectively within large teams.
+    - Sample: Resume ("Worked with Team members in NJ/London/India/ Hong Kong/Tokyo."), Job Description ("Excellent interpersonal and communication skills")
+
+3. Knowledge of networking protocols: The resume states proficiency in various network protocols like FCIF, XML, SWIFT, and FIX. The job description also requires familiarity with TCP/IP, UDP, TLS/SSL, etc. Score: 6/10.
+    - Reason: The candidate has networking experience from previous roles, even though all specific protocols required are not covered.
+    - Sample: Resume ("Messaging: FCIF, XML, SWIFT and FIX"), Job Description ("TCP/IP, UDP, TLS/SSL, VLANs, MAC addresses, subnets, and firewalls")
+
+4. Familiar with Incident and Change Management: The resume highlights experience in L2 Support and Incident Management and being part of delivering a software solution from requirements to delivery. The job description looks for candidates experienced in following a strict change management and incident tracking process. Score: 6/10.
+    - Reason: The resume demonstrates the candidate has been part of a full software delivery life cycle, which includes incident and change management.
+    - Sample: Resume ("Responsible for Requirements to Delivery"), Job Description ("Experience and willingness to follow a strict change management and incident tracking process.")
+
+5. Experience with Java and script development: Though the resume doesn't specifically mention PowerShell scripting, it does indicate a strong background in various programming languages including Java, and scripting languages like Python, Perl, and Shell implying versatile programming skills. Score: 5/10.
+    - Reason: The candidate shows strong programming skills in the resume, which may transfer well to PowerShell and other scripting languages required in the job description.
+    - Sample: Resume ("Languages: C, C++, Java, Python,  Perl  and  Korn  Shell"), Job Description ("Functional knowledge of PowerShell scripting and a desire to become more advanced")
+127.0.0.1 - - [02/Apr/2024 14:09:26] "POST /compare HTTP/1.1" 200 -

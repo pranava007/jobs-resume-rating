@@ -1,0 +1,80 @@
+Careers Home | Not Ready to Apply? 
+
+Cloud Engineer - Cloud Platform Share Print
+Job ID: 944761 Phoenix , Arizona Job Type: Contract To Hire Added - a day ago
+Job Description
+Innova Solutions is immediately hiring for a Cloud Engineer
+
+Position type: Contract
+Duration: 6+ Months
+Location: Phoenix, Arizona 85027 (100% Remote)
+
+As a(n) Cloud Engineer you will:
+
+Job Description:
+Top 3 Skills:
+3-5 years developing in Python
+AWS Cloud
+3-5 year/s experience maintaining Redshift, DMS, S3
+3-5 year/s of experience writing Infrastructure as Code (IAC)
+
+Cloud Engineer:
+Are you a skilled Cloud Engineer with a knack for data lakes to take your career to the next level? We are looking for a bright, enthusiastic Cloud Engineer to be part of a lean team responsible for the maintenance and optimization of our AWS Data Lake infrastructure, including AWS Redshift, DMS, Glue, Storage Gateway, Transfer Family, Lambda, and S3.
+Key Accountabilities and Priorities:
+Manage and maintain AWS Redshift clusters for optimal performance and scalability.
+Implement and monitor AWS DMS for data migration and replication.
+Develop and optimize ETL workflows using AWS Glue.
+Administer Storage Gateway for data transfer between environments.
+Utilize AWS Transfer Family for secure file transfer protocols.
+Design and implement serverless solutions using AWS Lambda.
+Oversee the organization and storage of data within AWS S3 buckets.
+Build and maintain CI/CD pipelines for automated deployments.
+
+Required Education and/or Experience:
+Proven experience working with AWS Redshift, DMS, Glue, Lambda, and S3.
+Strong proficiency in scripting languages (e.g., Python, Boto3) for automation tasks.
+Experience with AWS Cloud Development Kit (CDK) for Infrastructure as Code.
+In-depth knowledge of data lake architecture and best practices.
+Experience optimizing and troubleshooting performance bottlenecks in AWS environments.
+Familiarity with security best practices and compliance standards in AWS.
+Experience with other AWS services and technologies.
+Preferred Qualifications:
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+AWS certifications in relevant areas (e.g., AWS Certified Solutions Architect, AWS Certified Data Analytics).
+Proven experience building and maintaining CI/CD pipelines.
+Hospitality Industry experience a plus
+Keywords
+AWS, Python, IAC, Infrastructure as Code, CloudFormation, CDK, Redshift, Glue, Lambda, DMS, Storage Gateway, Transfer Family, S3, Redshift, SQL, Terraform
+
+The ideal candidate will have: <AWS, Python, Redshift, DMS, S3, Infrastructure as Code (IAC)>
+
+Qualified candidates should APPLY NOW for immediate consideration!  Please hit APPLY to provide the required information, and we will be back in touch as soon as possible.
+Thank you!
+
+
+
+PAY RANGE AND BENEFITS:
+Pay Range*: $58 - $64 per hour on W2
+*Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.
+
+Benefits: Innova Solutions offers benefits( based on eligibility) that include the following: Medical & pharmacy coverage, Dental/vision insurance, 401(k), Health saving account (HSA) and Flexible spending account (FSA), Life Insurance, Pet Insurance, Short term and Long term Disability, Accident & Critical illness coverage, Pre-paid legal & ID theft protection, Sick time, and other types of paid leaves (as required by law), Employee Assistance Program (EAP).
+ 
+ABOUT INNOVA SOLUTIONS: Founded in 1998 and headquartered in Atlanta, Georgia, Innova Solutions employs approximately 50,000 professionals worldwide and reports an annual revenue approaching $3 Billion. Through our global delivery centers across North America, Asia, and Europe, we deliver strategic technology and business transformation solutions to our clients, enabling them to operate as leaders within their fields.
+
+Recent Recognitions:
+One of Largest IT Consulting Staffing firms in the USA – Recognized as #4 by Staffing Industry Analysts (SIA 2022)
+ClearlyRated® Client Diamond Award Winner (2020)
+One of the Largest Certified MBE Companies in the NMSDC Network (2022)
+Advanced Tier Services partner with AWS and Gold with MS
+Website: https://www.innovasolutions.com/
+
+Innova Solutions is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Innova Solutions is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates.  If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hr@innovasolutions.com or (770) 493-5588. Please indicate the specifics of the assistance needed.  Innova Solutions encourages all interested and qualified candidates to apply for employment opportunities.   Innova Solutions (HireGenics/Volt) does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. § 1324b.
+The company will consider for employment qualified applicants with arrest and conviction records in a manner that complies with the San Francisco Fair Chance Ordinance, the Los Angeles Fair Chance Initiative for Hiring Ordinance, and other applicable laws.
+ 
+Job ID: 944761 Phoenix , Arizona Job Type: Contract To Hire Added - a day ago
+Related Cloud Platform Jobs
+System Administrator III
+Baltimore, Maryland
+Sr Cloud Engineer
+Phoenix , Arizona
+VIEW ALL JOBS IN THIS CATEGORY

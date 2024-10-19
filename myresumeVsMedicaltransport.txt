@@ -1,0 +1,30 @@
+================== <FileStorage: 'resume1.txt' ('text/plain')> medical-tranport-analyst.txt
+<openai.OpenAI object at 0x059D39B0>
+1. Project Management (8/10)
+Reason: The candidate has solid experience managing multiple projects, as demonstrated in several roles in their resume. The job requires leading process improvement projects.
+Sample from resume: "Managed Multiple Projects", "Lead process improvement projects leveraging PM methodologies"
+Sample from job description: "Lead process improvement projects leveraging PM methodologies like Six Sigma, FPX"
+
+2. Vendor Management (7/10)
+Reason: The candidate's previous roles involved interaction with external vendors, which aligns with the job's requirement of working with operational vendors.
+Sample from resume: "Supporting External interface Java adapters"
+Sample from job description: "Lead/participate in operational vendor management meetings"
+
+3. Operational Coordination (8/10)
+Reason: The candidate has demonstrated strong skills in operational coordination in different roles. The job description also requires coordinating and managing operations.
+Sample from resume: "Supporting Auction Rate Trading system"
+Sample from job description: "Responsible for coordination, track & trace and exception management for segment inter-region transportation lanes."
+
+4. Analytical Skills (8/10)
+Reason: The candidate has substantial experience in analytical tasks and data mining in various roles. The job description calls for operational analytics to improve business efficiencies.
+Sample from resume: "Experience in (Data Mining) analysis of large dataset and Software Performance Engineering"
+Sample from job description: "Perform ad-hoc operational analytics to drive day-to-day business efficiencies"
+
+5. Process Improvement (8/10)
+Reason: The candidate's resume suggests significant experience with improving processes. This fits well with the job's necessity for improving and innovating processes.
+Sample from resume: "Developing React application using Openfin"
+Sample from job description: "Lead process improvement projects leveraging PM methodologies like Six Sigma, FPX, etc"
+
+Note: The role specifically asks for Transportation/ Logistics experience which is not explicitly mentioned in the resume. Adjustments can be made to the resume to reflect any experience in that specific field if any.
+127.0.0.1 - - [02/Apr/2024 13:39:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Apr/2024 13:40:03] "POST /compare HTTP/1.1" 200 -

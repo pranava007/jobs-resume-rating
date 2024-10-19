@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Comparison</title>
+</head>
+<body>
+    <style>
+     nav{
+        /* background-color: #3059E3; */
+       
+     }
+     nav h2{
+        position: relative;
+        top: 21px;
+        left: 10px;
+        /* color:whitesmoke; */
+     }
+     ul{
+        display: flex;
+        list-style-type: none;
+        margin-left: 800px;
+        position: relative;
+        bottom: 25px;
+        /* color: whitesmoke; */
+     }
+     li{
+        margin-right: 100px;
+     }
+     ul button{
+        border: none;
+        /* color: whitesmoke; */
+        /* background-color: red; */
+       padding-top: 5px;
+       padding-bottom: 5px;
+
+        border-radius: 30px;
+
+     }
+     form{
+        text-align: center;
+        /* background-color:  #3059E3; */
+        padding: 50px;
+        border-radius: 10px;
+        margin-left: 600px;
+        margin-right: 600px;
+     }
+     .foter{
+        /* background-color: #3059E3; */
+        text-align: center;
+        /* color: whitesmoke; */
+        padding: 3px;
+        position: relative;
+        top: 235px;
+     }
+     /* body{background-color:#8AA5FF} */
+    </style>
+    <nav><h2>kmvds/jobs-resume-rating</h2>
+    <ul>
+        <li>Up_comping</li>
+        <li>Up_comping</li>
+        <li>Up_comping</li>
+        <button>Log_in</button>
+    </ul>
+    </nav>
+    <h1 style="text-align: center;color:black ;" >Resume vs Jobs Rating</h1>
+    <form action="/compare" method="POST" enctype="multipart/form-data">
+        <label for="file_to_compare">Single Resume</label><br><br>
+        <input style="border: none;"  type="file" id="file_to_compare" name="file_to_compare"><br><br><br>
+        <label for="files">Job Description</label><br> <br>
+        <input style="border: none;" type="file" id="files" name="files[]" multiple><br><br>
+        <input  style=" border: none; padding: 1px; border-radius: 2px;" type="submit" value="Compare">
+    </form>
+    <footer class="foter">Copyright @ -2024 </footer>
+</body>s
+</html>
+
+
+
+

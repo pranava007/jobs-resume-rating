@@ -1,0 +1,67 @@
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Owner\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+ * Debugger is active!
+ * Debugger PIN: 893-783-609
+
+===============================================================
+
+=================== <FileStorage: 'resume1.txt' ('text/plain')> innova-jobid-944894.txt
+<openai.OpenAI object at 0x0555E710>
+1. Network Experience - Score: 7/10
+Reason: The resume includes extensive experience with developing and maintaining applications for large-scale network systems, which aligns with the job requirement of supporting LAN/WAN devices and assisting network engineers.
+Resume: "Supporting Auction Rate Trading system (updating auction date flow and converting the existing ftp process to Web services)".
+Job Description: "Support the installation and maintenance of the client’s Local Area Network (LAN)/Wide Area Network (WAN) devices."
+
+2. Incident Management - Score: 6/10
+Reason: The resume mentions experience with incident management in a large banking institution, which is comparable to resolving incident tickets and managing network operations and repairs in the job description.
+Resume: "Coordinated and Performed User Acceptance test"
+Job Description: "Respond to and resolve incident tickets."
+
+3. Knowledge of Protocols - Score: 5/10
+Reason: The resume does not state explicit experience with the exact protocols mentioned in the job description, but it does mention experience with similar protocols and technologies.
+Resume: "Messaging: FCIF, XML, SWIFT and FIX"
+Job Description: "Working knowledge of Layer 3 protocols such as Open Shortest Path First (OSPF), Border Gateway Protocol (BGP), and Virtual Router Redundancy Protocol (VRRP)."
+
+4. Project Management - Score: 7/10
+Reason: The resume shows that the candidate has acted in capacities involving design and development of various projects, which would certainly translate to coordinating network operations and maintenance tasks in the job role.
+Resume: "Managed Multiple Projects."
+Job Description: "Coordinate network operations, maintenance, repairs, or upgrades."
+
+5. Configuration/Asset Management - Score: 4/10
+Reason: The resume mentions technology and project management skills, but the specific task of configuration management is not mentioned explicitly although these skills are related.
+Resume: "Good scripting experience with Python, Perl and Shell ( ksh )."
+Job Description: "Perform configuration management functions such as update topology drawings, ensure asset management records are accurate, and conduct inventory."
+
+===============================================================
+
+=================== <FileStorage: 'resume1.txt' ('text/plain')> medical-tranport-analyst.txt
+<openai.OpenAI object at 0x03A3B730>
+1. Project Management - Score: 8/10
+Reason: The resume includes extensive experience in managing multiple projects across various roles which aligns with job requirement of leading process improvement projects.
+Resume: "Responsible for Requirements to Deliver for VARS systems", "Managed Multiple Projects."
+Job Description: "Lead process improvement projects leveraging PM methodologies like Six Sigma, FPX, etc."
+
+2. Data Analytics - Score: 7/10
+Reason: Demonstrated strong analytic skills by working with large datasets and business intelligent systems, compatible with the job requirements of operational analytics.
+Resume: "Experience in (Data Mining) analysis of large dataset"
+Job Description: "Perform ad-hoc operational analytics to drive day-to-day business efficiencies"
+
+3. Vendor Management - Score: 6/10
+Reason: Experience in coordinating with team members and stakeholders noted in the resume align with the need for vendor management in the job description.
+Resume: "Worked with Team members in NJ/London/India/ Hong Kong/Tokyo."
+Job Description: "Lead/participate in operational vendor management meetings."
+
+4. System Development - Score: 8/10
+Reason: Rich experience in system development, which matches the job requirement of managing the company's inter-region transport lanes.
+Resume: "Design and Develop a TIBCO BusinessWorks reference application using TIBCO Designer."
+Job Description: "Manage door-door operational management for Company inter-region transport lanes."
+
+5. Performance Metrics Presentation - Score: 7/10
+Reason: Capability to present performance metrics, as reflected in the past roles, lines up with the job requirement of presenting performance metrics.
+Resume: "Developed Performance Post Processing Framework to Collect and Report."
+Job Description: "Ability to present performance metrics and project charters/updates to various levels of management."
+127.0.0.1 - - [02/Apr/2024 13:47:17] "POST /compare HTTP/1.1" 200 -
