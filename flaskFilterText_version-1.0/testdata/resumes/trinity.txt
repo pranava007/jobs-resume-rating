@@ -47,7 +47,7 @@ Eclipse, TestNG, Maven, Jenkins, MS Office, Salesforce, Postman, ICEDQ, Amazon C
 
 
 
-Healthfirst                                                                          	        	               Oct’ 21 – Feb’24
+healthcare                                                                          	        	               Oct’ 21 – Feb’24
 Role: Senior Test Analyst/Test Lead
 Application: CMS Interoperability, Data Lake, MedAdherence, Connected Care, HealthLake
 CMS (Center for Medicare & Medicaid Service) Interoperability application is used to transform healthcare data into FHIR HL7 format and store the transformed data in Smile CDR (Clinical Data Repository) where it can be accessed using Smart App.
@@ -80,7 +80,7 @@ Documented the end-to-end process of each interface release for future use.
  
 Environment: AWS S3, AWS Lenses, AWS Glue, AWS workspace, Athena, Data Lake, Health Lake, Redis-MemoryDB, Smile CDR, SSMS, Postgres, Selenium, Python, TestNG, ICEDQ, Gitlab and MS Office Suite.
  
-CVS Caremark                                                                   	        	                     Oct’20-Sep’21
+walgreens                                                                  	        	                     Oct’20-Sep’21
 Role: Senior QA Analyst
 Application(s) Name: Pharmacy Benefit Management (PBM) & Release Management
 PBM is a set of applications used for managing drug benefits. Once sales departments acquire a new client, together they will determine the benefit structure and implement the Pharmacy Benefits. Benefit are the parameters by which a claim adjudicates. Every plan has a benefit structure that determines what drugs pay at what price. The benefit structure includes the pharmacy network, drug exceptions or exclusions, drug pricing and dispensing limitations.
