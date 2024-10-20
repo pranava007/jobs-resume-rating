@@ -1,0 +1,24 @@
+1. Full Stack Development - Score 10/10
+   Reason: The resume shows significant experience in designing and developing applications with C++, Java, and JavaScript, matching job requirements.
+   Sample text from resume: "Design and Development of micro services using Java, ReactJS"
+   Sample text from job description: "Senior Software Engineer that has a passion for full stack development."
+
+2. Microservices Architecture - Score 9/10
+   Reason: The resume shows the candidate has experience with microservice architectures, which are mentioned in the job description.
+   Sample text from resume: "Design and Development of micro services using Java, ReactJS."
+   Sample text from job description: "Experience working with Microservice architectures."
+
+3. Experience with C++ and JavaScript - Score 10/10
+   Reason: The resume clearly indicates that the candidate has extensive experience with both C++ and JavaScript, which are required skills for the job.
+   Sample text from resume: "Solid C++/Java /Python expertise"
+   Sample text from job description: "4+ years experience working with C++ [...] 4+ years experience building comprehensive, scalable, and extensible client-side apps with JavaScript."
+
+4. Scalable Systems - Score 8/10
+   Reason: The resume shows an understanding of the scalability of systems, which is something mentioned in the job description.
+   Sample text from resume: "Responsible for Requirements to Deliver for VARS systems."
+   Sample text from job description: "Participate in the full SDLC of various components and systems that are required to be robust and scalable."
+
+5. Cloud Technologies and Big Data - Score 8/10
+   Reason: The resume mentions experience with RedHat OpenShift, AWS and Big Data System which aligns with job requirements.
+   Sample Text from resume: "Cloud Technologies RedHat OpenShift and Docker" , "Business Intelligent System Hadoop, Hive and QlikSense"
+   Sample Text from job description: "Knowledge of Big Data, SQL and NoSQL Databases, and Cloud-Based Object Stores"

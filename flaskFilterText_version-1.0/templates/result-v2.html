@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison Result</title>
+</head>
+<body style="">
+    <h1 style="text-align: center; ">Comparison Result</h1> <br><br>
+    <ul style="text-align: center; list-style-type: none; " >
+        {% for file, keywords in result.items() %}
+            <li style="padding: 5px; margin-bottom: 20px; margin-right: 150px;   " >
+                <strong style="padding: 5px;  " >{{ file }}</strong>:-  
+                <span style="padding: 10px; position: relative;left: 80px; "> 
+                    {% if keywords %}{{ ', '.join(keywords) }}{% else %}No matching keywords{% endif %} 
+                    <hr style="background-color: royalblue;" >
+                </span>
+                <span style="padding: 10px; position: relative;left: 80px; "> 
+                    {{ airesult[file]}}
+                    <hr style="background-color: royalblue;" >
+                </span>
+            </li>
+
+             
+        {% endfor %}
+    </ul>
+</body>
+</html>
