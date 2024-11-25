@@ -1,0 +1,24 @@
+Job Description
+TCS Hiring for Angular Developer Role!!
+
+Required Information Details
+
+Role- Angular Developer
+Required Technical Skill Set- Angular
+Desired Experience Range 4 -10 Yrs
+Location of Requirement- Pan India
+
+Desired Competencies (Technical/Behavioral Competency)
+Must Have
+1. Strong knowledge and hands-on development experience in Angular 9 & above is a must.
+2. Proficient with web technologies - HTML5, CSS3, JSON and writing cross-browser compatible code
+3. Good understanding of Typescript Dom manipulation technique & RESTful services
+4. Expert in any one of the modern MV-VM/MVC framework
+5. Hands-on experience in implementing Angular applications, directives
+6. Experience on automated unit testing framework E.g. Jasmine, Karma, etc.
+7. Proven experience of working in fully Agile teams/environment
+8. Knowledge of Continuous Integration and Deployment (CI/CD), TDD & BDD
+9. Working knowledge with code versioning tools e.g. git, svn etc.
+
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
