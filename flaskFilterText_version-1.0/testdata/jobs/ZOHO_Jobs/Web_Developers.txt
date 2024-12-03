@@ -1,0 +1,6 @@
+Job Description
+Develop new components based on design specs.
+Work independently and write maintainable code.
+Understand existing code and suggest optimization in terms of functionality and performance.
+Work on client frameworks for caching and develop reusable components.
+Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai.

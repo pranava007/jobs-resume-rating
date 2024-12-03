@@ -1,0 +1,96 @@
+Cyber_Security_Analyst
+Pune, India
+Tech Hiring
+3097865
+Job Description
+Role Purpose
+
+The purpose of this role is to analyse, identify, rectify & recommend specific improvement measures that help in the security posture of the organization by protecting the sensitive information
+
+ 
+
+Do
+
+ 
+
+Key Responsibilities:
+1. Perform regular reviews of user access rights to ensure compliance with company policies and industry regulations.
+2. Analyze access permissions and entitlements to identify any discrepancies or violations.
+3. Collaborate with cross-functional teams to investigate and resolve access-related issues promptly.
+4. Document findings and recommendations from access reviews, and provide actionable insights to stakeholders.
+5. Implement and maintain access control processes and procedures to enhance security and minimize risks.
+6. Conduct Segregation of Duties (SoD) analysis to identify and mitigate conflicts in user access rights, ensuring adherence to regulatory requirements.
+7. Develop and maintain comprehensive documentation of access review processes and outcomes for audit purposes.
+8. Work closely with IT and security teams to streamline access management processes and improve efficiency.
+9. Being proactive and assist in process improvement steps including automation.
+10. Participate in internal and external audits, providing necessary information and support related to access controls.
+ 
+
+Stakeholder coordination & audit assistance 
+Liaise with stakeholders in relation to cyber security issues and provide future recommendations
+Maintain an information security risk register and assist with internal and external audits relating to information security
+Assist with the creation, maintenance and delivery of cyber security awareness training for colleagues
+Advice and guidance to employees on issues such as spam and unwanted or malicious emails
+ 
+
+ 
+
+Stakeholder Interaction
+
+ 
+
+Stakeholder Type	Stakeholder Identification	Purpose of Interaction
+Internal	Technical Lead/ Project Lead	Regular reporting & updates
+Security Intelligence (Practice)	Coordination for security reasons
+External	
+Customer
+
+ 
+
+To coordinate for all security breaches & resolutions
+ 
+
+ 
+
+Display
+
+ 
+
+Lists the competencies required to perform this role effectively:
+
+Functional Competencies/ Skill
+Leveraging Technology - Knowledge of current and upcoming technology (automation, tools and systems) to build efficiencies and effectiveness in own function/ Client organization - Expert
+Process Excellence - Ability to follow the standards and norms to produce consistent results, provide effective control and reduction of risk - Expert
+Functional/Technical - Knowledge of Network Security devices, firewalls, end points, SIEM, application security, IPS/IDS, VA / PT skills - Master
+ 
+
+Competency Levels
+Foundation	Knowledgeable about the competency requirements. Demonstrates (in parts) frequently with minimal support and guidance.
+Competent	Consistently demonstrates the full range of the competency without guidance. Extends the competency to difficult and unknown situations as well.
+Expert	Applies the competency in all situations and is serves as a guide to others as well.
+Master	Coaches others and builds organizational capability in the competency area. Serves as a key resource for that competency and is recognized within the entire organization.
+ 
+
+ 
+
+Behavioral Competencies
+Effective Communication
+Collaborative Working
+Execution Excellence
+Problem Solving & Analytical Skills
+ 
+
+ 
+
+Deliver
+
+ 
+
+No.	Performance Parameter	Measure
+1.	Customer centricity	 Timely security breach solutioning to end users, Internal stakeholders & external customers experience
+2.	Process Adherence	Adherence to SLA’s (90-95%), response time and resolution time TAT
+ 
+
+ 
+
+UAM - User Access Management

@@ -1,0 +1,54 @@
+DevOps Engineer
+Cincinnati, Ohio
+Tech Hiring
+3121577
+Job Description
+ 
+
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs.
+
+We leverage our holistic portfolio of capabilities in consulting, design, engineering, operations, and emerging technologies to help clients realize their boldest ambitions and build future-ready, sustainable businesses.
+
+A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 250,000 dedicated employees serving clients across 66 countries.
+
+We deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world.
+
+A PROUD HISTORY OF OVER 75 YEARS
+FY23 REVENUE 11.3 BN USD
+WE’RE PRESENT IN 66 COUNTRIES
+OVER 1,400 ACTIVE GLOBAL CLIENTS
+ 
+
+Location: Cincinnati
+
+ 
+
+Hands on experience using C# with .NET Framework and Core, JavaScript for enterprise web applications
+Knowledgeable on Cloud Web Development concepts and design
+Experience designing low latency applications designed for scalability and reliability with high throughput. 
+Experience using modern and functional programming styles 
+Excellent code hygiene and habits 
+Proven ability to implement user interfaces against WCF, REST APIs 
+Knowledgeable on Cloud Web Development concepts and design
+CI/CD pipeline experience, experience with Gitlab, Kubernetes, Jenkins
+Very knowledgeable in Hashicorp or similar key vault knowledge
+Experience building REST API, Micro Service architecture
+Web technologies experience: REST, JSON
+Experience in SQL, SSIS
+Experience with code scanning tools like Fortify, Blackduck, or SonarCube
+Familiarity with SPLUNK for debugging and troubleshooting
+Familiarity with source control management best practices
+Knowledge of Tibco or similar middleware service technologies
+ 
+
+“Expected annual pay for this role ranges from [$60000] to [$135000]. Based on the position, the role is also eligible for Wipro’s standard benefits including a full range of medical and dental benefits options, disability insurance, paid time off (inclusive of sick leave), other paid and unpaid leave options.”
+
+ 
+
+Wipro is an Equal Employment Opportunity employer and makes all employment and employment-related decisions without regard to a person's race, sex, national origin, ancestry, disability, sexual orientation, or any other status protected by applicable law.
+
+ 
+
+ 
+
+ASP.NET MVC 5

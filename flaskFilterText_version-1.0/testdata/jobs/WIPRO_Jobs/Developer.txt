@@ -1,0 +1,32 @@
+Developer
+Hyderabad, India
+Tech Hiring
+3115284
+Job Description
+Need strong candidatures with potential experience of 9-10 years  in FACETs Development with Group Benefits and Eligibility healthcare experience, Claims Experience
+
+ 
+
+Design and develop web applications using C#.Net, Asp.Net, MVC, and Web API.
+Design and develop HTML markups using HTML, CSS, jQuery and bootstrap.
+Create tables, triggers and stored procedures in SQL Server database.
+Leads most complex multiple modelling, simulations, and analysis efforts.
+Works on the most complex problems where analysis of situations or data requires an evaluation of intangible variance factors.
+Experience/knowledge in Healthcare, Claims business process knowledge, Facets software experience (Claims configuration), familiarity with Facets Product definition, experience in Claims testing processes.
+Group Benefits and Eligibility experience
+Create data access layer using Entity framework.
+Create Model, View and Controllers using MVC framework and follow agile methodology to implement the project.
+Design and develop micro services with .Net Core framework.
+Design and develop HTML markups using HTML, CSS, jQuery and bootstrap.
+Implement software design patterns in developing micro services.
+Design and develop reusable components using .Net core libraries and publish as Nuget packages.
+Develop applications like Test-driven development, Pair Programming, etc., using extreme programming techniques.
+Leads most complex multiple modeling, simulations, and analysis efforts.
+Design and develop REST services using .Net core and ASP.Net MVC framework.
+Create scheduled jobs and process them as part of applications orchestration process.
+Implement data access layer using Entity framework.
+Works on the most complex problems where analysis of situations or data requires an evaluation of intangible variance factors.
+Implement authentication for various micro services using customer oauth and SAML authentication.
+Experience/knowledge in Healthcare, Claims business process knowledge, Facets software experience (Claims configuration), familiarity with Facets Product definition, experience in Claims testing processes.
+Group Benefits and Eligibility experience
+Facets Front End

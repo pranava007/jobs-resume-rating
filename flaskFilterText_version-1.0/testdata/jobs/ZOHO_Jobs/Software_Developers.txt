@@ -1,0 +1,8 @@
+Job Description
+Design and develop high-volume, low-latency applications for mission-critical systems, ensuring top-tier availability and performance.
+Contribute to all phases of the product development lifecycle.
+Write well-designed, testable, and efficient code.
+Ensure designs comply with specifications.
+Prepare and produce releases of software components.
+Support continuous improvement by investigating alternate technologies and presenting these for architectural review.
+Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai.

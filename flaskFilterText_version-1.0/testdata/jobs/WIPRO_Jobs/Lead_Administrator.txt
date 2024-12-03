@@ -1,0 +1,158 @@
+Lead Administrator
+Pune, India; Chennai, India
+Tech Hiring
+3069025
+Job Description
+ 
+
+Role Purpose
+
+The purpose of this role is to provide significant technical expertise in architecture planning and design of the concerned tower (platform, database, middleware, backup etc) as well as managing its day-to-day operations
+
+Do
+
+Provide adequate support in architecture planning, migration & installation for new projects in own tower (platform/dbase/ middleware/ backup)
+Lead the structural/ architectural design of a platform/ middleware/ database/ back up etc. according to various system requirements to ensure a highly scalable and extensible solution
+Conduct technology capacity planning by reviewing the current and future requirements
+Utilize and leverage the new features of all underlying technologies to ensure smooth functioning of the installed databases and applications/ platforms, as applicable
+Strategize & implement disaster recovery plans and create and implement backup and recovery plans
+Manage the day-to-day operations of the tower
+Manage day-to-day operations by troubleshooting any issues, conducting root cause analysis (RCA) and developing fixes to avoid similar issues.
+Plan for and manage upgradations, migration, maintenance, backup, installation and configuration functions for own tower
+Review the technical performance of own tower and deploy ways to improve efficiency, fine tune performance and reduce performance challenges
+Develop shift roster for the team to ensure no disruption in the tower
+Create and update SOPs, Data Responsibility Matrices, operations manuals, daily test plans, data architecture guidance etc.
+Provide weekly status reports to the client leadership team, internal stakeholders on database activities w.r.t. progress, updates, status, and next steps
+Leverage technology to develop Service Improvement Plan (SIP) through automation and other initiatives for higher efficiency and effectiveness
+ 
+
+Team Management
+Resourcing
+Forecast talent requirements as per the current and future business needs
+Hire adequate and right resources for the team
+Train direct reportees to make right recruitment and selection decisions
+Talent Management
+Ensure 100% compliance to Wipro’s standards of adequate onboarding and training for team members to enhance capability & effectiveness
+Build an internal talent pool of HiPos and ensure their career progression within the organization
+Promote diversity in leadership positions
+Performance Management
+Set goals for direct reportees, conduct timely performance reviews and appraisals, and give constructive feedback to direct reports.
+Ensure that organizational programs like Performance Nxt are well understood and that the team is taking the opportunities presented by such programs to their and their levels below
+Employee Satisfaction and Engagement
+Lead and drive engagement initiatives for the team
+Track team satisfaction scores and identify initiatives to build engagement within the team
+Proactively challenge the team with larger and enriching projects/ initiatives for the organization or team
+Exercise employee recognition and appreciation
+ 
+
+Stakeholder Interaction
+
+ 
+
+Stakeholder Type
+
+Stakeholder Identification
+
+Purpose of Interaction
+
+Internal
+
+Technology Solutions Group, BU Teams, Different Infrastructure teams
+
+Understanding requirements, planning and status updates, maintenance and back up, issue resolution etc.  
+
+IRMC, QA
+
+Guidance on risk mitigation and quality standards
+
+External
+
+Clients
+
+Understanding requirements, planning and status updates, maintenance and back up, issue resolution etc.  
+
+Vendors/ Manufacturers
+
+Development and deployment of platforms, applications, databases etc.
+
+ 
+
+ 
+
+Display
+
+ 
+
+Lists the competencies required to perform this role effectively:
+
+Functional Competencies/ Skill
+Technical Knowledge - Knowledge of own tower (platform, application, database etc) - Expert
+Domain Knowledge - Understanding of IT industry and its trends - Competent to Expert
+ 
+
+Competency Levels
+
+Foundation
+
+Knowledgeable about the competency requirements. Demonstrates (in parts) frequently with minimal support and guidance.
+
+Competent
+
+Consistently demonstrates the full range of the competency without guidance. Extends the competency to difficult and unknown situations as well.
+
+Expert
+
+Applies the competency in all situations and is serves as a guide to others as well.
+
+Master
+
+Coaches others and builds organizational capability in the competency area. Serves as a key resource for that competency and is recognised within the entire organization.
+
+ 
+
+Behavioral Competencies
+Managing Complexity
+Client centricity
+Execution Excellence
+Passion for Results
+Team Management
+Stakeholder Management
+ 
+
+Deliver
+
+ 
+
+No.
+
+Performance Parameter
+
+Measure
+
+1.
+
+Operations of the tower
+
+SLA adherence
+
+Knowledge management
+
+CSAT/ Customer Experience
+
+Identification of risk issues and mitigation plans
+
+Knowledge management
+
+2.
+
+New projects
+
+Timely delivery
+
+Avoid unauthorised changes
+
+No formal escalations
+
+ 
+
+Network Data Admin

@@ -1,0 +1,23 @@
+Job Description
+Functional consultant
+Job Summary
+Location: Bucharest
+
+Project role: Functional consultant
+
+Qualification: B-Tech
+
+Experience: 2.5-5 Years
+
+Skills: AWS OpenShift
+
+No. of positions: 1
+
+Job description:
+OpenShift Cloud DevOps EngineerSummary:In this role you re continuously following latest technological developments in the area of Cloud in combination with OpenShift/K8 s. Daily tasks consist of design, install, develop, configure and maintain OpenShift Container platform and development services according to Achmea s business needs. Next to these tasks you also, as part of the team effort, will be responsible to operate the Openshift Platform as efficiently as possible including taking care of incidents, problems, requests, changes, capacity, etc (in short ITIL operational processes). You will be part of a Agile team as an DevOps engineer or SRE. As a team member you understand the importance of Cloud systems and have the knowledge and skills to understand Cloud solutions. You have a high degree of learning agility and are eager to continuously keep your own knowledge in sync or beyond with what is required. You like to work with new products and/or systems, are a driven professional with a stress-free attitude. You ll work closely together with colleagues and suppliers in an informal setting.Responsibilities/Activities: Having E2E responsibility for OpenShift landscape of our customers. Developing and managing operational tasks within a global team with a focus on automation, reliability, maintainability, security and customer satisfaction. Make use of CI/CD framework to rapidly support lifecycle management of the platform. Acting as L2-L3 support for incidents, problems and service request. Work with various teams (including 3th party) to resolve incidents and implement changes. Implement and drive automation and self-healing solutions to reduce toil. Reduce error budgets to address reliability issues and/or risks Produce and maintain internal designs and user documentation. Support ITSM processes.Job requirements: Azure Associate certification or equivalent knowledge level. OpenShift or K8 s certification. For seniors at least 5+ years of professional. Mediors at least 3+ years Experience with HELM or Kustomize is mandatory At least experience with one of the following; Ansible, GoLang or Terraform. Is security minded in all activities. Knowledge of CI/CD concepts and toolset (i.e. Jenkins, GitHub Actions). Must be adaptable to work in a varied, fast paced exciting, ever changing environment. Good analytical and problem-solving skills to resolve technical issues. Eager to learn and adapt to a constant changing environment. Understanding of Agile development, SCRUM or SRE concepts is a plus. Willing to run standby duty. Able to function autonomously and adding to a collaborative team-spirit
+
+To analyze customer process need in implementation engagement and provide solution to meet business objective
+To coordinate with technical teams for pending RICEFs
+To interact with the client and other functional teams for gaining understanding of the requirements
+To participate in team meetings
+To train others and prepare and deliver presentations for knowledge sharing amongst different teams in the project

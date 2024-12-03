@@ -1,0 +1,46 @@
+Job ID/Reference Code
+INFSYS-EXTERNAL-198648
+Work Experience
+5-10 Years
+Job Title
+IT Consulting
+Responsibilities
+ A day in the life of an Infoscion
+•	As part of the Infosys consulting team, your primary role would be to get to the heart of customer issues, diagnose problem areas, design innovative solutions and facilitate deployment resulting in client delight.
+
+•	You will develop a proposal by owning parts of the proposal document and by giving inputs in solution design based on areas of expertise. 
+
+•	You will plan the activities of configuration, configure the product as per the design, conduct conference room pilots and will assist in resolving any queries related to requirements and solution design
+
+•	You will conduct solution/product demonstrations, POC/Proof of Technology workshops and prepare effort estimates which suit the customer budgetary requirements and are in line with organization’s financial guidelines 
+
+•	Actively lead small projects and contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. 
+
+If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+Technical and Professional Requirements:
+ •	Primary skills:Technology->Automated Testing->Automated Testing - ALL,Technology->Automated Testing->Automated Testing - ALL,Technology->Package testing->SAP,Technology->SAP Functional->SAP HCM,Technology->SAP Functional->SAP MM,Technology->SAP Functional->SAP PM,Technology->SAP Functional->SAP PP,Technology->SAP Functional->SAP SD,Technology->SAP Functional->SAP Success Factors 
+Preferred Skills:
+ Technology->Automated Testing->Automated Testing - ALL->TOSCA 
+ Technology->Automated Testing->Automated Testing - ALL->Worksoft Certify 
+ Technology->SAP Functional->SAP HCM 
+ Technology->SAP Functional->SAP MM 
+ Technology->SAP Functional->SAP PM 
+ Technology->SAP Functional->SAP PP 
+ Technology->SAP Functional->SAP SD 
+ Technology->SAP Functional->SAP Success Factors 
+ Technology->Package testing->SAP->FICO 
+Additional Responsibilities:
+ •	Ability to develop value-creating strategies and models that enable clients to innovate, drive growth and increase their business profitability 
+•	Good knowledge on software configuration management systems
+•	Awareness of latest technologies and Industry trends 
+•	Logical thinking and problem solving skills along with an ability to collaborate
+•	Understanding of the financial processes for various types of projects and the various pricing models available
+•	Ability to assess the current processes, identify improvement areas and suggest the technology solutions   
+•	One or two industry domain knowledge    
+•	Client Interfacing skills
+•	Project and Team management 
+Educational Requirements
+Bachelor of Engineering 
+Service Line
+Infosys Quality Engineering
+* Location of posting is subject to business requirements

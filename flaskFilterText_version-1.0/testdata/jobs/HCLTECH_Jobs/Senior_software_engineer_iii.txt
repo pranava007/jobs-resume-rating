@@ -1,0 +1,21 @@
+Job Description
+Senior software engineer iii
+Job Summary
+Location: Noida
+
+Project role: Senior software engineer iii
+
+Qualification: B-Tech
+
+Experience: 2.5-5 Years
+
+Skills: Javascript
+
+Secondary Skills:
+NoSQL
+NodeJS
+No. of positions: 1
+
+Job description:
+Btech/BE in Computer Science or related technicalfield or proof of exceptional skills in related fieldswith practical software engineering experience. Expertise in GoLang/ReactJs/NodeJs, SQL Expertise in development on GCP Knowledge in Javascript, NodeJs, NOSQL, ETL andReporting are nice to haveReactJs Developer - Job DescriptionMandate Skill: Expertise in GoLang/ReactJs/NodeJs, SQL Expertise in development on GCP Knowledge in Javascript, NodeJs, NOSQL, ETLand Reporting are nice to haveJob DescriptionEducational Qualification/PriorExperienceAt HCL Software we are seeking to hire a Senior SoftwareEngineer IIIIn our team you will be responsible for: Building and maintaining software productcomponents using native programming languages Mentoring/Coaching/Leading junior team members Graduated with university degree in either Science,Technology, Engineering or Mathematicsdisciplines. At least 9-year demonstrated experience as SWdeveloper in SW product companies or similarrelevant experiences
+

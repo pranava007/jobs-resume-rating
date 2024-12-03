@@ -1,0 +1,22 @@
+Job Description
+Senior test lead
+Job Summary
+Location: Mumbai
+
+Project role: Senior test lead
+
+Skills: Selenium
+
+Secondary Skills:
+SQL
+Unix
+Black Box Testing
+No. of positions: 1
+
+Job description:
+To develop comprehensive test plans based on project requirements and objectives in collaboration with project stakeholders to define testing scope, goals, and deliverables.
+
+To participate in functional as well as technical discussions with the client /team to understand functional /design specifications ,highlight performance concerns, inconsistencies ,ensure the appropriate test environments and infrastructures are in place/kept upto date.
+To Identify opportunities for process improvement in testing methodologies /tools and Implement best practices to enhance the efficiency and effectiveness of the testing process.
+To oversee the creation and execution of automated test scripts ensuring consistency and alignment with quality standards to minimize exposure.
+To develop/guide and mentor QA engineers in the use of the testing framework , enhancing their technical capabilities and increasing productivity.

@@ -1,0 +1,46 @@
+Job ID/Reference Code
+INFSYS-EXTERNAL-198468
+Work Experience
+5-14 Years
+Job Title
+CCNA L1-Application Monitoring
+Responsibilities
+ AIM team focuses on restoring IT service operations as quickly as possible and minimising the adverse impact on business operations. The team is currently looking for a colleague to monitor and troubleshoot Danske Bank network issues, manage incidents, changes and requests.
+*This is a job with shifts to ensure 24/7 operational coverage.
+You will:
+Monitor Bank’s network, application and server infrastructure on 24/7 basis
+Identify, register and investigate network events and incidents
+Undertake an immediate effort in order to restore a failed service or component as quickly as possible
+Document operational procedures and incident resolution instructions
+Perform structured analysis and reporting of identified trends and problems
+Actively participate in post incident recovery steps in order to identify root cause to prevent future issues
+Work experience in network technologies field and hands-on Cisco product configuration
+Working knowledge of LAN/WAN protocols & technologies
+We would consider as an advantage:
+Experience with firewalls and load balancers e.g. Cisco, FortiGate, NetScaler, AVI
+Relevant IT and/or network certifications e.g. CCNA
+Understanding of servers (Windows, Linux) how to remote connect to them and perform maintenance checks
+Primary Skills:
+Work experience in network technologies field and hands-on Cisco product configuration
+Working knowledge of LAN/WAN protocols & technologies
+Should have AWS associate architect certification level knowledge. Having certification is much preferred. 
+Should have application monitoring experience or willing to work in such an environment. Should have basic understanding on Visualization tools like Grafana, Promethues. 
+Should have understanding on any of the APM tools such as Appdynamics(preferred), Dynatrace, splunk or newrelic 
+Should have associate-mid level experience on Linux or Windows administration 
+Having knowledge on Nagios or Sensu is much preferred
+It’s a 24/7 L1 – L1.5 monitoring job (12 hrs shift)
+Technical and Professional Requirements:
+ •	NOC L1-Network
+APM Tool
+Application Monitoring-Grafana or Appdynamics
+CCNA
+CCNA L1
+CCNA L1 Monitoring
+Application monitoring & Network infra monitoring + initial level troubleshooting around networks 
+Preferred Skills:
+ Domain->Network->Network Security Applications 
+Educational Requirements
+Bachelor of Engineering 
+Service Line
+Cloud & Infrastructure Services
+* Location of posting is subject to business requirements

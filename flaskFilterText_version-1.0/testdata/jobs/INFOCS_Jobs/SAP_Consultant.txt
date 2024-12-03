@@ -1,0 +1,65 @@
+Job ID/Reference Code
+INFSYS-EXTERNAL-198659
+Work Experience
+2-16 Years
+Job Title
+SAP Consultant
+Responsibilities
+ A day in the life of an Infoscion
+•	As part of the Infosys consulting team, your primary role would be to actively aid the consulting team in different phases of the project including problem definition, effort estimation, diagnosis, solution generation and design and deployment 
+
+•	You will explore the alternatives to the recommended solutions based on research that includes literature surveys, information available in public domains, vendor evaluation information, etc. and build POCs 
+
+•	You will create requirement specifications from the business needs, define the to-be-processes and detailed functional designs based on requirements.
+
+•	You will support configuring solution requirements on the products; understand if any issues, diagnose the root-cause of such issues, seek clarifications, and then identify and shortlist solution alternatives
+
+•	You will also contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. 
+
+If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+Technical and Professional Requirements:
+ •	Must have minimum 2 years of experience.
+•       Technical or functional experience in any of the below mentioned SAP module.
+            -  SAP ABAP
+            -  SAP FICO
+            -  SAP SD
+            -  SAP MM
+            -  SAP BASIS
+            -  SAP BW/HANA/BODS/Data Migration
+            -  SAP ISU
+            -  SAP UI5/FIORI/BTP
+            -  SAP PP/QM
+            -  SAP Security/GRC
+            -  SAP EWM
+            -  SAP TM 
+Preferred Skills:
+ Technology->SAP Functional->SAP Controlling 
+ Technology->SAP Functional->SAP Finance 
+ Technology->SAP Functional->SAP MM 
+ Technology->SAP Functional->SAP PP 
+ Technology->SAP Functional->SAP QM 
+ Technology->SAP Functional->SAP SCM EWM 
+ Technology->SAP Functional->SAP SCM Transportation Mgmt 
+ Technology->SAP Functional->SAP SD 
+ Technology->SAP Technical->SAP ABAP 
+ Technology->SAP Technical->SAP Basis 
+ Technology->SAP Technical->SAP Fiori 
+ Technology->SAP Technical->SAP Security 
+ Technology->SAP Technical->SAP UI5 
+ Technology->SAP Technical->SAP HANA XS / Native HANA->Native HANA 
+ Technology->Business Intelligence - Reporting->SAP BW 
+ Technology->Data Management - Data Integration->SAP BODS 
+ Technology->SAP Technical->SAP BW on HANA 
+ Technology->Data Migration->SAP specific Data Migration 
+ Technology->SAP ISU Billing->SAP IS- Utilities 
+Additional Responsibilities:
+ •	Ability to work with clients to identify business challenges and contribute to client deliverables by refining, analyzing, and structuring relevant data
+•	Awareness of latest technologies and trends
+•	Logical thinking and problem-solving skills along with an ability to collaborate
+•	Ability to assess the current processes, identify improvement areas and suggest the technology solutions   
+•	One or two industry domain knowledge 
+Educational Requirements
+Bachelor Of Technology,Bachelor of Engineering 
+Service Line
+Enterprise Package Application Services
+* Location of posting is subject to business requirements

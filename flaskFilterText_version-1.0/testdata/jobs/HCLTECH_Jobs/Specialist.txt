@@ -1,0 +1,61 @@
+Job Description
+Specialist
+Job Summary
+Location: Chennai
+
+Project role: Specialist
+
+Qualification: B-Tech
+
+Experience: 2.5-5 Years
+
+Skills: FW
+
+No. of positions: 1
+
+Job description:
+Tier 2 Job description:
+
+What you will be doing...
+
+Performing troubleshooting and diagnosis of complex tasks.
+Working with Design Engineer, Project Engineer, and Project Manager on required tasks.
+Working with enterprise security device vendors to resolve complex incidents.
+Reviewing and understanding documented processes, updating process documents, providing peer-to-peer training, and interacting with high-level Verizon and customer managers.
+Assisting other Tier2 engineers in complex tasks and Incident escalation calls.
+Creating, distributing, analysing and evaluating network management performance reports.
+Creating and presenting a Root Cause Analysis (RCA) document when requested.
+Participating in the Capacity Management process, audits and compliance assessments performed internally, and in design level changes.
+Participating in audit and compliance assessments performed internally.
+Participating in design level changes.
+
+You ll need to have:
+
+Bachelor s degree or four or more years of work experience.
+Four or more years of relevant work experience.
+Experience in working with Security Products in a 24x7 environment.
+Knowledge of Palo Alto, CISCO ASA, Fortinet, Juniper firewalls.
+Knowledge of F5 load balancer & proxies, etc.
+Experience in Zscaler, Netskope, Cylanceprotect, Prisma, iboss, SD-WAN etc.
+Knowledge of Cloud Security products.
+
+Even better if you have one or more of the following:
+
+Ability to multitask, prioritize and resolve urgent issues.
+Certification/s in Palo Alto, CISCO ASA, F5, Bluecoat.
+ITIL Certification.
+Good verbal and written communication skills.
+Effectively interface with internal & external stakeholders.
+Ability to provide critical information in a clear, concise and quick manner.
+Good technical and non-technical presentation and interpersonal skills.
+Experience in standards and procedures to manage and deliver 24x7 technical operations.
+Scripting knowledge
+
+
+To clearly understand the client's cybersecurity environment and respective product.
+To monitor, configure, and troubleshoot cybersecurity issues and related monitoring tools
+To analyse and validate cybersecurity incidents in-detail and help the L3 team with RCA/data or logs collection
+To enable knowledge transfer/trainings through creation/ maintenance of configuration documents, test plans, operational manuals and provide operational training to L1 team.
+To analyse and fine-tune cybersecurity policies, participate in cybersecurity review calls pertaining to change requests & recommendations on cybersecurity policy changes.
+To implement changes, monitor security device performance and implements performance tuning when necessary.
+To prepare analyses and reports to highlight the project progress/challenges and ensure quality and accuracy to the client

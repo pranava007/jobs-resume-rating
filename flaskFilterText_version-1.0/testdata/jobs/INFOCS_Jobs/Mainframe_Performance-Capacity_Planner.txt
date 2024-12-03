@@ -1,0 +1,53 @@
+Job ID/Reference Code
+INFSYS-EXTERNAL-198467
+Work Experience
+5-14 Years
+Job Title
+Mainframe Performance-Capacity Planner
+Responsibilities
+ Primary Skills:
+• 7+ years of strong experience in Mainframe Applications Performance tuning and management 
+• Analyze Mainframe Application code and SQLs for both batch and online components and recommend optimisation opportunities. 
+• Ability to perform proactive capacity and performance management to avoid any issues related to infrastructure capacity and performance.
+ • Strong expertise on RMF, SMF and WLM
+• Good working experience with performance management tools and products (like APA, SAS, MXG, Omegamon suite)
+Experience with ELK Stack
+• Proficient with coding using any of most common programming languages i.e. REXX, Python, Assembler, PL/1, Cobol,Java,Powershell 
+Secondary Skills:
+• Good understanding of zOS components and interconnection, JES2, SDSF, TSO/ISPF, JCL, Parallel Sysplex, IBM system utilities
+Good to Have Skills:
+• Have experience in reporting, presentations (power point and web), Excel and other reporting tools
+Job Description:
+The Mainframe Performance and capacity specialist will primarily focus on mainframe system and application performance analysis, optimization, and capacity reporting. 
+The role is covered by the Performance Competence Centre (CPM). 
+Responsibilities – 
+• Measure and optimize systems and applications performance. 
+• Performance and Capacity analysis, reporting, evaluation and assessment of systems and application components 
+• Perform proactive capacity forecast and performance management. 
+• Define, estimate and provision capacity requirements (Technical infrastructure) 
+• Monitor system capacity and performance and tune as and when required.
+ • Develop, enhance and maintain the in-house tools for Capacity and Performance management
+Technical and Professional Requirements:
+ •	Mainframe Performance and Capacity Planner
+Mainframe Capacity and Performance management 
+MCP 
+Preferred Skills:
+ Technology->Mainframe Technologies->Mainframe Technologies- ALL 
+Additional Responsibilities:
+ •	Knowledge of more than one technology
+•	Basics of Architecture and Design fundamentals
+•	Knowledge of Testing tools
+•	Knowledge of agile methodologies  
+•	Understanding of Project life cycle activities on development and maintenance projects
+•	Understanding of one or more Estimation methodologies, Knowledge of Quality processes
+•	Basics of business domain to understand the business requirements
+•	Analytical abilities, Strong Technical Skills, Good communication skills
+•	Good understanding of the technology and domain 
+•	Ability to demonstrate a sound understanding of software quality assurance principles, SOLID design principles and modelling methods
+•	Awareness of latest technologies and trends
+•	Excellent problem solving, analytical and debugging skills 
+Educational Requirements
+Bachelor of Engineering 
+Service Line
+Cloud & Infrastructure Services
+* Location of posting is subject to business requirements

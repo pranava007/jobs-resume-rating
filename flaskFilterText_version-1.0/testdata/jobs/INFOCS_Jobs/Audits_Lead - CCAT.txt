@@ -1,0 +1,33 @@
+Job ID/Reference Code
+INFSYS-EXTERNAL-198397
+Work Experience
+5-8 Years
+Job Title
+Audits Lead - CCAT
+Responsibilities
+ • Periodic strategizing and planning of audits, sampling of accounts with high focus on Agile-DevOps adoption
+• Account Level Audit execution alongwith conducting project level audits
+• Seamless execution of audit alongwith Delivery and Quality teams 
+• Clear articulation of risks and business impact from conducted audits
+• Key Risks presentation to Delivery and Quality Leadership
+• Monitoring effective closure of audit findings in a timely manner
+• Driving change through Agile-DevOps COEs, Delivery SMEs, other support functions within the ecosystems
+• Continually upgrading the Agile-DevOps Assessment framework to cater to ever-changing business needs
+• Play the role of Change Agent, Drive Improvements and De-risk the engagements
+Technical and Professional Requirements:
+ • Ability to audit independently
+Comprehensive knowledge Distributed Agile methodologies, DevSecOps models
+• Hands-on experience in practicing and implementing Agile and DevOps practices in both Development and Service/Support projects
+• Strong Analytical, Inter-Personal, Networking and Presentation Skills
+• Ability to coordinate with Senior Stakeholders from Delivery and Quality
+• Ability to extract process deficiencies based on factual data
+• Strong Communication and Articulation Skills (Oral & Written)
+• Mandatory: Certified ISO9001 Auditor, Certified ISO20000 Auditor, CMMI 2.0 Trained
+• Preferred: ISO9001,ISO20000, ITIL V4, CMMI 2.0 , ISO13485, AS9100, DevOps Certifications, Agile certifications 
+Preferred Skills:
+ Foundational->Quality models/improvement frameworks->CMMi for Development 
+Educational Requirements
+Bachelor of Engineering 
+Service Line
+Quality
+* Location of posting is subject to business requirements

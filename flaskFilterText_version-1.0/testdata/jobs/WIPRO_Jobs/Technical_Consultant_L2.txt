@@ -1,0 +1,22 @@
+Technical Consultant - L2
+Chennai, India
+Tech Hiring
+3118036
+Job Description
+Responsibilities :
+
+?    Experience in Network strategy and designing as part of Data Center Migration from in-house to co-located DCs / Cloud 
+?    Providing solutions as per the requirement given in the areas of Network Data, Network voice and Security infra,
+?    Encompasses architecture, engineering, and provide third level support for operations services for the IT 
+?    Build and grow vendor relationship, working with vendors to design and develop best fit solutions and driving the technology roadmap
+?    strategy, innovation, operations, and infrastructure required to deliver efficient and effective platforms fundamental to business success
+?    Engage with Enterprise Architects regarding technical architecture and details of Cloud Migration and Datacenter Transformation, Architecture, design, Governance, and Support of hybrid cloud computing
+?    Leading the proof of concepts and innovative solutions to understand and derive best solutions for the client infrastructure
+?    Develop and define detailed designs, documentation, prototypes, process designs, testing, training, and definition of support procedures
+?    Direct and supervise work of network engineers
+?    Troubleshoot implementation issues and drive to successful resolution
+?    Able design complex global Routing-Enterprise Switching including LAN/WAN, MPLS, SD-WAN, BGP, SDN, QoS, etc
+?    Experience on heterogeneous Network infrastructure to support F5 LTM/GTM, Infoblox, Cisco &Arista SDN, SDA, ACI, DNAC, NSX-T, Cisco / Aruba / Meraki ? Wireless, Security infra on Palo Alto, Fortinet, Cisco ISE
+?    Certification CISCO CCNP / CCIE
+
+Cisco Routing and Switching

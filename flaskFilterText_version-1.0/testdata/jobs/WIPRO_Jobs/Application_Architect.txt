@@ -1,0 +1,257 @@
+Application Architect
+Bengaluru, India
+Tech Hiring
+3109700
+Job Description
+ 
+
+Role Purpose
+
+The purpose of the role is to create exceptional and detailed architectural application design and provide thought leadership and enable delivery teams to provide exceptional client engagement and satisfaction.
+
+Do
+
+ 
+
+Develop architectural application for the new deals/ major change requests in existing deals
+Creates an enterprise-wide architecture that ensures systems are scalable, reliable, and manageable.
+Manages application assets and directs the development efforts within an enterprise to improve solution delivery and agility
+Guides how to construct and assemble application components and services to support solution architecture and application development
+Maintains the frameworks and artefacts used in the implementation of an application, with reference to the systematic architecture of the overall application portfolio
+Responsible for application architecture paradigms such as service-oriented architecture (SOA) and, more specifically, microservices, ensuring business achieve agility and scalability for a faster time to market
+Provide solution of RFP’s received from clients and ensure overall design assurance
+Develop a direction to manage the portfolio of to-be-solutions including systems, shared infrastructure services, applications in order to better match business outcome objectives
+Analyse technology environment, enterprise specifics, client requirements to set a collaboration design framework/ architecture
+Depending on the client’s need with particular standards and technology stacks create complete RFPs
+Provide technical leadership to the design, development and implementation of custom solutions through thoughtful use of modern technology
+Define and understand current state solutions and identify improvements, options & tradeoffs to define target state solutions
+Clearly articulate and sell architectural targets, recommendations and reusable patterns and accordingly propose investment roadmaps
+Evaluate and recommend solutions to integrate with overall technology ecosystem
+Tracks industry and application trends and relates these to planning current and future IT needs
+Provides technical and strategic inputs during the project planning phase in the form of technical architectural designs and recommendations
+Account mining to find opportunities in the existing clients
+Collaborates with all relevant parties in order to review the objectives and constraints of solutions and determine conformance with the Enterprise Architecture.
+Identifies implementation risks and potential impacts.
+Create new revenue streams within applications as APIs that can be leveraged by clients
+Bring knowledge of automation in application by embracing Agile and dev-ops principles to reduce manual part
+ 
+
+Understanding application requirements and design a standardize application
+Creating Intellectual Property in forms of services, patterns, models and organizational approaches
+Designing patterns, best practices and reusable applications that can be used for future references
+Ensure system capabilities are consumed by system components and set criteria for evaluating technical and business value in terms of Tolerate, Invest, Migrate and Eliminate
+Provide platform to create standardize tools, uniform design and techniques are maintained to reduce costs of maintenance
+Coordinating input on risks, costs and opportunities for concepts
+Developing customised applications for the customers aligned with their needs
+Perform design and code reviews thoroughly on regular basis, keeping in mind the security measures
+Understanding design and production procedures and standards to create prototypes and finished products
+Work closely with systems analysts, software developers, data managers and other team members to ensure successful production of application software
+Offer viable solutions for various systems and architectures to different types of businesses
+Seamless integration of new and existing systems to eliminate potential problems and maintain data structure and bring value in terms of development
+Transforming all applications into digital form and implement and evolve around mesh app and service architecture that support new technologies like IOT, blockchain, machine learning, automation, BOTS etc
+Cloud Transformation: (Migration)
+Understanding non-functional requirements
+Producing artefacts such as deployment architecture, interface catalogue
+Identify internal and external dependency, vendor and internal IT management
+Support build and testing team
+Cloud Transformation: (Modernization)
+Understanding and Defining target architecture in Integration space
+Assessing project pipeline / demand and align to target architecture
+Technical support of delivery team in terms and POC and technical guidance
+Keep Up-to-date with the latest technologies in the market
+ 
+
+Enable Delivery Teams by providing optimal delivery solutions/ frameworks
+Build and maintain relationships with executives, technical leaders, product owners, peer architects and other stakeholders to become a trusted advisor
+Collaborate with enterprise architect for translating business strategy to execution
+Develops and establishes relevant technical, business process and overall support metrics (KPI/SLA) to drive results
+Bring value in terms of quality in development activities by leveraging cloud based and scalable infrastructure
+Manages multiple projects and accurately reports the status of all major assignments while adhering to all project management standards
+Identify technical, process, structural risks and prepare a risk mitigation plan for all the projects
+Ensure quality assurance of all the architecture or design decisions and provides technical mitigation support to the delivery teams
+Recommend tools for reuse, automation for improved productivity and reduced cycle times
+Continuously review session with customers for sustainable development practices
+Leads the development and maintenance of enterprise framework and related artefacts
+Develops trust and builds effective working relationships through respectful, collaborative engagement across individual product teams
+Ensures architecture principles and standards are consistently applied to all the projects
+Ensure optimal Client Engagement
+Support pre-sales team while presenting the entire solution design and its principles to the client
+Negotiate, manage and coordinate with the client teams to ensure all requirements are met and create an impact of solution proposed
+Demonstrate thought leadership with strong technical capability in front of the client to win the confidence and act as a trusted advisor
+ 
+
+Competency Building and Branding
+Ensure completion of necessary trainings and certifications
+Develop Proof of Concepts (POCs), case studies, demos etc. for new growth areas based on market and customer research
+Develop and present a point of view of Wipro on application design and architect by writing white papers, blogs etc.
+Attain market referencability and recognition through highest analyst rankings, client testimonials and partner credits
+Be the voice of Wipro’s Thought Leadership by speaking in forums (internal and external)
+Mentor developers, designers and Junior architects in the project for their further career development and enhancement
+Contribute to the architecture practice by conducting selection interviews etc
+Team Management
+Resourcing
+Anticipating new talent requirements as per the market/ industry trends or client requirements
+Hire adequate and right resources for the team
+Talent Management
+Ensure adequate onboarding and training for the team members to enhance capability & effectiveness
+Build an internal talent pool and ensure their career progression within the organization
+Manage team attrition
+Drive diversity in leadership positions
+Performance Management
+Set goals for the team, conduct timely performance reviews and provide constructive feedback to own direct reports
+Ensure that the Performance Nxt is followed for the entire team
+Employee Satisfaction and Engagement
+Lead and drive engagement initiatives for the team
+Track team satisfaction scores and identify initiatives to build engagement within the team
+ 
+
+Stakeholder Interaction
+
+ 
+
+Stakeholder Type
+
+Stakeholder Identification
+
+Purpose of Interaction
+
+Internal
+
+Delivery teams
+
+Review of architectural process deployment in engagements, escalation management, issue resolution, delivery assurance and excellence
+
+Pre-sales team
+
+For solutioning and architectural design purpose
+
+Quality Assurance
+
+Periodic review of architecture
+
+Practice teams
+
+To understand the different solution portfolios
+
+Holmes engineering and roll out
+
+For automation purpose
+
+Talent Transformation Team, Competency Group
+
+Plan and support delivery of Technical Trainings, knowledge sharing
+
+HRBP
+
+For hiring and managing resources
+
+External
+
+Vendors/ Partners
+
+For strategic alignment and partnerships, training
+
+Industry forums
+
+Best practices, market intelligence, knowledge sharing
+
+ 
+
+ 
+
+Display
+
+ 
+
+Lists the competencies required to perform this role effectively:
+
+Functional Competencies/ Skill
+Domain/Industry Knowledge - Awareness and knowledge of broad economic, demographic, technological and global trends within own ecosystem - Master
+Market Intelligence - Deep specialized understanding of the ecosystem practice, overall market & competition and nuances of delivery in that domain - Master
+Systems Thinking - Understanding of the Wipro system (interrelatedness, interdependencies and boundaries) and perform problem solving in a complex environment - Expert
+Leveraging Technology - In-depth knowledge of and mastery over ecosystem technology that commands expert authority respect - Master
+Asset reusability - ability to re-use the assets to ensure scalability and optimization - Expert
+Technical knowledge - architecture design principles, framework and documentation - Master
+ 
+
+Competency Levels
+
+Foundation
+
+Knowledgeable about the competency requirements. Demonstrates (in parts) frequently with minimal support and guidance.
+
+Competent
+
+Consistently demonstrates the full range of the competency without guidance. Extends the competency to difficult and unknown situations as well.
+
+Expert
+
+Applies the competency in all situations and is serves as a guide to others as well.
+
+Master
+
+Coaches others and builds organizational capability in the competency area. Serves as a key resource for that competency and is recognised within the entire organization.
+
+ 
+
+ 
+
+Behavioral Competencies
+Strategic perspective
+Stakeholder Management
+Technology Acumen
+Innovation
+Managing Complexity
+Client centricity
+Execution excellence
+Self-Learning
+Domain Experience
+Change agility
+Passion for results
+Nurturing people
+Executive presence
+ 
+
+Deliver
+
+ 
+
+No.
+
+Performance Parameter
+
+Measure
+
+1.
+
+Support sales team to create wins
+
+% of proposals with Quality Index  >7, timely support of the proposals, identifying opportunities/ leads to sell services within/ outside account (lead generation), no. of proposals led
+
+2.
+
+Delivery support
+
+CSAT, delivery as per cost, quality and timelines, Identify and develop resuable components, utilization %, Recommend tools for reuse, automation for improved productivity and reduced cycle times, # of reusable components
+
+3.
+
+Capability development
+
+% trainings and certifications completed, increase in ACE certifications, thought leadership content developed (white papers, Wipro PoVs)
+
+4.
+
+Practice Building
+
+Identifying opportunities for architects in the account and outside through known contacts, Contribute towards domain and technology accelerator kits, Mentoring junior architects
+
+5.
+
+Team Management
+
+Team attrition %, Employee satisfaction score
+
+ 
+
+Oracle Integration Cloud Service

@@ -1,0 +1,9 @@
+Job Description
+Experience in manual and automation testing.
+Knowledge of Java Programming (data types, variables, operators, flow control statements, methods (built-in as well as user-defined), Exception handling, File Handling, Database Operations, and OOPS concepts.
+Experience in MySQL/PgSQL.
+Experience in Selenium and Jmeter.
+Should be able to perform rigorous testing by creating large data sets, conduct back-end testing, and validate information as it flows through the system.
+Assist developers, support reps, and product managers in debugging issues.
+Re-test and verify the bugs/issues that have been fixed.
+Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai.
